@@ -1,11 +1,20 @@
-<h1 align="center">Hi there, I'm Rajapandi 👋</h1>
-<h3 align="center">🚀 Full-Stack Developer | React.js | Node.js | PHP | MySQL</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Rajapandi%20N&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React.js%20%7C%20Node.js%20%7C%20PHP%20%7C%20MySQL&descAlignY=58&descSize=18"/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajapandi-n-8b82a52b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nitrajapandi2019@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6366F1" alt="profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js+%7C+Node.js+%7C+PHP+%7C+MySQL;Building+responsive+web+experiences;Always+learning%2C+always+building"/>
+</p>
 
 <p align="center">
 I'm a passionate Full-Stack Developer with 1.7+ years of experience building responsive, scalable, and user-friendly web applications. I enjoy creating modern web solutions using JavaScript technologies and continuously learning new frameworks and tools.
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:06B6D4&height=2&section=header"/>
 
 ### 👨‍💻 About Me
 
@@ -15,7 +24,7 @@ I'm a passionate Full-Stack Developer with 1.7+ years of experience building res
 - 🤝 Open to collaborating on React, Node.js, PHP, and Open Source projects
 - 📍 Madurai, Tamil Nadu, India
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:06B6D4&height=2"/>
 
 ### 🛠️ Tech Stack
 
@@ -54,7 +63,7 @@ I'm a passionate Full-Stack Developer with 1.7+ years of experience building res
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:06B6D4&height=2"/>
 
 ### 💼 Professional Experience
 
@@ -73,7 +82,7 @@ I'm a passionate Full-Stack Developer with 1.7+ years of experience building res
 - Worked with HTML, CSS, Bootstrap, and JavaScript
 - Participated in Agile development
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:06B6D4&height=2"/>
 
 ### 🚀 Featured Projects
 
@@ -92,7 +101,7 @@ Tech Stack: React.js, JavaScript, HTML5, CSS3, EmailJS
 - EmailJS Integration
 - Netlify Deployment
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:06B6D4&height=2"/>
 
 ### 📜 Certifications
 
@@ -102,7 +111,7 @@ Tech Stack: React.js, JavaScript, HTML5, CSS3, EmailJS
 - Meta Version Control
 - Full Stack Development – KGiSL Micro College
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:06B6D4&height=2"/>
 
 ### 📈 GitHub Stats
 
@@ -116,14 +125,14 @@ Tech Stack: React.js, JavaScript, HTML5, CSS3, EmailJS
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:06B6D4&height=2"/>
 
 ### 📫 Connect With Me
 
 - 📧 Email: [nitrajapandi2019@gmail.com](mailto:nitrajapandi2019@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/rajapandi-n-8b82a52b5](https://www.linkedin.com/in/rajapandi-n-8b82a52b5)
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:06B6D4&height=2"/>
 
 ### 💬 Favorite Quote
 
